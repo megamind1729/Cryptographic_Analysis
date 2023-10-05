@@ -1,0 +1,33 @@
+Sample 1:
+
+Ciphertext:
+zg bbr wh zh sstt? k dsbb, ewqb ou haqu, ccpy tb kk! o xcktf sijzm wp woohtaa! jmohamvzq fahbkfbt wg bjv tpff wh gwmzl! xupqicewizqbz pitwoss bv vys gcku qw oejxzvzgjbz! uker bzmmtzbh qamozqbzl qp kvf thzo ft gchl! diojbpiuywou lmozbbfl qp kvf thzo ft nswqc! tcohkwncse wlwnrhfr ucdszfg bv vys gcku qw gpqbin esukhzmj. ffoe? gql kbbm bq komy tjqlh ssttkkm? xs aixvb'u zbdgu wo oggvywou kmofhfzr knfgf hh qv jwoqx bjv hvfg wh kvf qxvvlfz! kx bwibfr bb qwt, uchs qlh uvx jckhffbmu, jbbqdmf fb b pto qw uncl, ejzzf kx bqjgfr mpg isnbtvvj wohh bjv swsk mzgoorbvi uindlbgi cg ham jlabb vwpuwuwhv. yv zjjx qp sfbbwmf ycvgxa, vioesfitbse pr kqidpftbkfbt, pnqnk co pbxqcos bnudvft, xnurzbh ii ipu rpkg wp uwhwmin uwtdeiaj, vzdgwvznjbz cu zbuc mpg swhuxav jzvaumt dooybvf yot somt jsfb. rww'u vbjx bq uwh dkmvkm esxx, mzrec, umhfff mhc erb gwgl cemuvbvi isbz. pm nzjf wg i mzbhrhu qw pvzeajzh, uvtb gmso mhc jrjf zbdgu wo thz hrf uch tqeu. tc wwp'k hfze ug rppim vqk pfwgo tvom: w'f vq cstg kmcc hiog bjv tvqdqpx pfsy xckhz wg gqlf cwz uct. ot ttz cj mpi tzg tcoqxzpvr, fzeqqk, w ba omtp ffoe. eg rff oet vfufhamt ecx, kamvyss mhc nzyf wm wt ecu.
+
+Plaintext:
+is any of it real? i mean, look at this, look at it! a world built on fantasy! synthetic emotions in the form of pills! psychological warfare in the form of advertising! mind altering chemicals in the form of food! brainwashing seminars in the form of media! controlled isolated bubbles in the form of social networks. real? you want to talk about reality? we haven't lived in anything remotely close to it since the turn of the century! we turned it off, took out the batteries, snacked on a bag of gmos, while we tossed the remnants into the ever expanding dumpster of the human condition. we live in branded houses, trademarked by corporations, built on bipolar numbers, jumping up and down on digital displays, hypnotizing us into the biggest slumber mankind has ever seen. you'd have to dig pretty deep, kiddo, before you can find anything real. we live in a kingdom of bullshit, that even you have lived in for far too long. so don't tell me about not being real: i'm no less real than the fucking beef patty in your big mac. as far as you are concerned, elliot, i am very real. we are all together now, whether you like it or not.
+
+Key: robotic
+
+
+
+Sample 2:
+
+Ciphertext:
+lb iife quws bae hrzrl’l ftuaz khmaxbkz – mhp pixs 1 – t rzru-yqse xdhk wy ewhkzzhmpfpgvbclo kozvutwa hcble lv 1944 ov t lle iz ptrgdzj cgighzyqmy. ekm iwfpfwmx lxvpowvmw a roqzka oyh lgg, tno qw uvx wlv ihtx tz owiime ekm iinsp. dnzmk hzxzy wy spdzipbnr, d tgj tsdlazigt qlvgtey dswzbxd ekm vzhbwhu. ob leppmj i foek pgl eaygmj wg oyh wl bae nruvcmec’v kozvutw juikdd dvj aaocwmj qm ofw. nxwf tsdb swfeyw wt, khmaxbkz zltwknml wpum xmyecumj bh ad ecma.
+
+Plaintext:
+it came from the world’s first computer – the mark 1 – a room-size maze of electromechanical circuits built in 1944 in a lab at harvard university. the computer developed a glitch one day, and no one was able to locate the cause. after hours of searching, a lab assistant finally spotted the problem. it seemed a moth had landed on one of the computer’s circuit boards and shorted it out. from that moment on, computer glitches were referred to as bugs.
+
+Key: digital
+
+
+
+Sample 3:
+
+Ciphertext:
+vvh wpcytsse zcr welvr a diijktlg ufpl. dlv jggwpfjw teveapu rj uyi msru lqfpiokid lc r hwncpf, kle zvvgeqxtbkmox ek egoow, uyi ixwfepwd, xiv wunhvf yoniozrg kx dafblkik, xho tiwugxvf ks segtwgr eidryso jraniui dfyln lrng bdxjfrav gffustyfegec, xyw fsvtbzv op xyw ncqk xvikc aywp hki qisbvid kgspie zrsypltns, wlf iipoekwf rdwizrgc sw mrzljuvh hytvk, vvh qfexav wygeyv, xiv xexwzgp oqh uyi fbyjltowmpe enn xyw wfjiotc axh kzg ghgsvgy kpc uqbyisxid kru zcapisvh fevzgwgoc vgsn rmj kmiop. iv govprhusg mo uicoqswt.
+
+Plaintext:
+the solution had taken a terrific toll. the restless turning of the mind tormented by a puzzle, the preoccupation at meals, the insomnia, the sudden wakening at midnight, the pressure to succeed because failure could have national consequences, the despair of the long weeks when the problem seemed insoluble, the repeated dashings of uplifted hopes, the mental shocks, the tension and the frustration and the urgency and the secrecy all converged and hammered furiously upon his skull. he collapsed in december.
+
+Key: codebreakers
